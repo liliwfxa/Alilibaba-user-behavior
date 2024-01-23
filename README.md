@@ -1,3 +1,4 @@
+Alibaba User Behavior Analysis
 ![UserBehavior](https://github.com/liliwfxa/Alilibaba-user-behavior/assets/154775725/07a66d63-9483-4eb3-99c2-f837a7dcacd8)
 # Dataset Introduction
 The dataset offers a rich tapestry of user behavior data, comprising approximately 10.78 million entries from Alibaba, China's largest e-commerce platform. Spanning a timeframe from November 18, 2014, to December 18, 2014, the dataset provides a window into the e-commerce activities of thousands of users during a peak shopping period. It encapsulates six anonymized columns, each shedding light on different facets of consumer behavior:
